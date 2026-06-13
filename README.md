@@ -74,7 +74,7 @@ AI/ML dashboard for real-time mule account detection and  fraud transaction anal
 * Faster fraud detection
 * Reduced manual investigation effort
 * Improved banking security
-* Enhanced financial crime monitoring
+* Enhanced financial crime monitoring  and 
 * Better decision support for investigators
 
 ## SDG Alignment
